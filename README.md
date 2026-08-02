@@ -1,1 +1,1 @@
-# deep-learning-homework-1
+# deep-learning-project
